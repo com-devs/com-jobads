@@ -12,4 +12,4 @@
 
 # Terms
 
-- [X] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source (💎)
+- [X] You can use the source code if you keep credits, it has to be open-source (💎)
